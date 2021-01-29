@@ -1,9 +1,4 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map",
-  "static/example.mp4": "static/example-a54f504fe261949ca768e9033c1eafe8.mp4",
-  "static/example_lazy.mp4": "static/example_lazy-d5b97c1392a66eb3316dfcd09cb5657a.mp4",
-  "static/example_lazy_comp.mp4": "static/example_lazy_comp-5217cbe013b03e38aea5066e8c0de2ca.mp4",
-  "static/example_suspense.mp4": "static/example_suspense-d5b03ea2c6cd7b7fe1b9c0c8e63c721f.mp4",
-  "static/example_usememo.mp4": "static/example_usememo-206a6f2a6efd306fcdd4ce66fa53325e.mp4"
+  "main.js.map": "render-page.js.map"
 }
