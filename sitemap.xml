@@ -3,6 +3,7 @@
 <url> <loc>https://green-labs.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://green-labs.github.io/algebraic-data-type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/start-your-clojure-project-now-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/start-your-clojure-project-now-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/apply-and-compose</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -12,12 +13,14 @@
 <url> <loc>https://green-labs.github.io/what-is-reason-ml</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/what-is-polymorphic-variants</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://green-labs.github.io/tags/algebraic-data-type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/bucklescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/clojure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/graph-ql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/o-caml</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/polymorphic-variants</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/re-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://green-labs.github.io/tags/re-script-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/reason</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://green-labs.github.io/tags/reason-ml</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
