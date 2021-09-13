@@ -125,15 +125,6 @@
   Link: </component---src-lekoarts-gatsby-theme-minimal-blog-core-templates-post-query-tsx-91bb4cd3b6293ecc9d55.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/reason-ml-the-good-parts/page-data.json>; rel=preload; as=fetch; crossorigin
-/what-is-polymorphic-variants
-  Link: </webpack-runtime-fba04978b290dcb56af8.js>; rel=preload; as=script
-  Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
-  Link: </app-5c5740e4aee247e819b3.js>; rel=preload; as=script
-  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </a762775feeb6986a7626165c092554dd56475b59-903a849af2d4fe2b9e06.js>; rel=preload; as=script
-  Link: </component---src-lekoarts-gatsby-theme-minimal-blog-core-templates-post-query-tsx-91bb4cd3b6293ecc9d55.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/what-is-polymorphic-variants/page-data.json>; rel=preload; as=fetch; crossorigin
 /what-is-reason-ml
   Link: </webpack-runtime-fba04978b290dcb56af8.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -143,6 +134,15 @@
   Link: </component---src-lekoarts-gatsby-theme-minimal-blog-core-templates-post-query-tsx-91bb4cd3b6293ecc9d55.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/what-is-reason-ml/page-data.json>; rel=preload; as=fetch; crossorigin
+/what-is-polymorphic-variants
+  Link: </webpack-runtime-fba04978b290dcb56af8.js>; rel=preload; as=script
+  Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </app-5c5740e4aee247e819b3.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </a762775feeb6986a7626165c092554dd56475b59-903a849af2d4fe2b9e06.js>; rel=preload; as=script
+  Link: </component---src-lekoarts-gatsby-theme-minimal-blog-core-templates-post-query-tsx-91bb4cd3b6293ecc9d55.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/what-is-polymorphic-variants/page-data.json>; rel=preload; as=fetch; crossorigin
 /about
   Link: </webpack-runtime-fba04978b290dcb56af8.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
