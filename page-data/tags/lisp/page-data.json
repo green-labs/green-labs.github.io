@@ -1,1 +1,5 @@
-{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx","path":"/tags/lisp","result":{"data":{"allPost":{"nodes":[{"__typename":"MdxPost","slug":"/the-macro","title":"클로저 매크로에 대해 알아보자","date":"2021년 11월 22일","excerpt":"…","timeToRead":4,"description":"그만 알아보자","tags":[{"name":"Clojure","slug":"clojure"},{"name":"Macro","slug":"macro"},{"name":"Lisp","slug":"lisp"}]}]}},"pageContext":{"slug":"lisp","name":"Lisp","formatString":"YYYY년 M월 D일"}},"staticQueryHashes":["3090400250","3090400250","318001574"]}
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/lisp",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/the-macro","title":"클로저 매크로에 대해 알아보자","date":"2021년 11월 22일","excerpt":"…","timeToRead":4,"description":"그만 알아보자","tags":[{"name":"Clojure","slug":"clojure"},{"name":"Macro","slug":"macro"},{"name":"Lisp","slug":"lisp"}]}]}},"pageContext":{"slug":"lisp","name":"Lisp","formatString":"YYYY년 M월 D일"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
