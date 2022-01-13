@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/survey",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/greenlabs-clojurians-2022","title":"그린랩스 클로저 사용 실태 조사 2022","date":"2022년 1월 11일","excerpt":"2022년 새해를 맞아 그린랩스의 클로저(Clojure) 사용자들을 대상으로 가벼운 설문조사를 진행했습니다.\n응답자는 총 17명이고, 팜모닝 혹은 신선마켓의 백엔드를 개발하시는 분들께서 주로 응답을 주셨습니다. Q…","timeToRead":2,"description":"그린랩스의 클로저 사용자를 대상으로 설문조사를 진행했습니다.","tags":[{"name":"Clojure","slug":"clojure"},{"name":"survey","slug":"survey"}]}]}},"pageContext":{"slug":"survey","name":"survey","formatString":"YYYY년 M월 D일"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
