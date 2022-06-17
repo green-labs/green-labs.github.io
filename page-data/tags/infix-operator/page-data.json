@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
-    "path": "/tags/infix-operator",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/apply-and-compose","title":"함수형 프로그래밍과 중위연산자","date":"2021년 4월 27일","excerpt":"…","timeToRead":3,"description":"show me the $","tags":[{"name":"functional programming","slug":"functional-programming"},{"name":"infix operator","slug":"infix-operator"}]}]}},"pageContext":{"slug":"infix-operator","name":"infix operator","formatString":"YYYY년 M월 D일"}},
-    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
+{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx","path":"/tags/infix-operator","result":{"data":{"allPost":{"nodes":[{"slug":"/apply-and-compose","title":"함수형 프로그래밍과 중위연산자","date":"2021년 4월 27일","excerpt":"…","timeToRead":3,"description":"show me the $","tags":[{"name":"functional programming","slug":"functional-programming"},{"name":"infix operator","slug":"infix-operator"}]}]}},"pageContext":{"slug":"infix-operator","name":"infix operator","formatString":"YYYY년 M월 D일"}},"staticQueryHashes":["2744905544","3090400250","318001574"]}
