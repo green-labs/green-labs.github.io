@@ -39,11 +39,9 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-programmers-naming-index-mdx-73328fca4f29c75442d6.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-is-clojure-hard-to-read-index-mdx-44e95be0d5524c0a9964.js
-  Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-introduce-a-ring-index-mdx-6df16effbfd9e8515651.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-greenlabs-clojurian-2022-index-mdx-d82af98566f233502c0f.js
+/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-is-clojure-hard-to-read-index-mdx-44e95be0d5524c0a9964.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-feature-flags-v-1-index-mdx-f9a51ae741412c884b88.js
   Cache-Control: public, max-age=31536000, immutable
@@ -63,15 +61,17 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-culture-greenlight-interview-smartfarm-index-mdx-d71bbbc4bf16f089973e.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-greenlabs-clojurian-2022-index-mdx-d82af98566f233502c0f.js
+  Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-clojure-bootcamp-index-mdx-02932f87844326809f0f.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-algebraic-data-type-index-mdx-0ec8d80c0aea63dece50.js
+/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-pair-programming-index-mdx-73646d1149da4bc1e4e7.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-apply-and-compose-index-mdx-e51cc66acae52b72355b.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-polymorphic-variants-index-mdx-47932ccf134b4f2b39df.js
+/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-algebraic-data-type-index-mdx-0ec8d80c0aea63dece50.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-pair-programming-index-mdx-73646d1149da4bc1e4e7.js
+/component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-polymorphic-variants-index-mdx-47932ccf134b4f2b39df.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-lazy-sequence-from-scratch-index-mdx-14ca1c14963b9d4d262c.js
   Cache-Control: public, max-age=31536000, immutable
@@ -212,16 +212,6 @@
   Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-programmers-naming-index-mdx-73328fca4f29c75442d6.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/programmers-naming/page-data.json>; rel=preload; as=fetch; crossorigin
-/is-clojure-hard-to-read
-  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
-  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-is-clojure-hard-to-read-index-mdx-44e95be0d5524c0a9964.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/is-clojure-hard-to-read/page-data.json>; rel=preload; as=fetch; crossorigin
 /introduce-a-ring
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
@@ -232,16 +222,16 @@
   Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-introduce-a-ring-index-mdx-6df16effbfd9e8515651.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/introduce-a-ring/page-data.json>; rel=preload; as=fetch; crossorigin
-/greenlabs-clojurians-2022
+/is-clojure-hard-to-read
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
   Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
   Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
   Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-greenlabs-clojurian-2022-index-mdx-d82af98566f233502c0f.js>; rel=preload; as=script
+  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-is-clojure-hard-to-read-index-mdx-44e95be0d5524c0a9964.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/greenlabs-clojurians-2022/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/is-clojure-hard-to-read/page-data.json>; rel=preload; as=fetch; crossorigin
 /feature-flags-1
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
@@ -332,6 +322,16 @@
   Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-culture-greenlight-interview-smartfarm-index-mdx-d71bbbc4bf16f089973e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/culture-greenlight-interview-smartfarm/page-data.json>; rel=preload; as=fetch; crossorigin
+/greenlabs-clojurians-2022
+  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
+  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-greenlabs-clojurian-2022-index-mdx-d82af98566f233502c0f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/greenlabs-clojurians-2022/page-data.json>; rel=preload; as=fetch; crossorigin
 /clojure-bootcamp
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
@@ -342,36 +342,6 @@
   Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-clojure-bootcamp-index-mdx-02932f87844326809f0f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/clojure-bootcamp/page-data.json>; rel=preload; as=fetch; crossorigin
-/algebraic-data-type
-  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
-  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-algebraic-data-type-index-mdx-0ec8d80c0aea63dece50.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/algebraic-data-type/page-data.json>; rel=preload; as=fetch; crossorigin
-/apply-and-compose
-  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
-  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-apply-and-compose-index-mdx-e51cc66acae52b72355b.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/apply-and-compose/page-data.json>; rel=preload; as=fetch; crossorigin
-/what-is-polymorphic-variants
-  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
-  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
-  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
-  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-polymorphic-variants-index-mdx-47932ccf134b4f2b39df.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/what-is-polymorphic-variants/page-data.json>; rel=preload; as=fetch; crossorigin
 /pair-programming
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
@@ -382,6 +352,36 @@
   Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-pair-programming-index-mdx-73646d1149da4bc1e4e7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pair-programming/page-data.json>; rel=preload; as=fetch; crossorigin
+/apply-and-compose
+  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
+  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-apply-and-compose-index-mdx-e51cc66acae52b72355b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/apply-and-compose/page-data.json>; rel=preload; as=fetch; crossorigin
+/algebraic-data-type
+  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
+  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-algebraic-data-type-index-mdx-0ec8d80c0aea63dece50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/algebraic-data-type/page-data.json>; rel=preload; as=fetch; crossorigin
+/what-is-polymorphic-variants
+  Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </app-d7d63df33a30dbee4b33.js>; rel=preload; as=script
+  Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
+  Link: </commons-16ccdcf6b844a8ebf821.js>; rel=preload; as=script
+  Link: </ae0e9c401abd79acef29ef84e9f465680c109b3e-bbf384a0570e7752b87d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-query-tsx-content-file-path-users-hyejin-documents-tech-blog-content-posts-polymorphic-variants-index-mdx-47932ccf134b4f2b39df.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/what-is-polymorphic-variants/page-data.json>; rel=preload; as=fetch; crossorigin
 /lazy-sequence-from-scratch
   Link: </webpack-runtime-8476717f68092dc3d041.js>; rel=preload; as=script
   Link: </framework-1e26ac9454b0bff3e847.js>; rel=preload; as=script
